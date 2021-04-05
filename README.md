@@ -8,6 +8,8 @@ compiled with gcc. gcc main.c -o main.exe
 see ASM in gcc. gcc -m32 -fno-asynchronous-unwind-tables -s -S -o main.s32 main.c
 objective: just learn.
 ---------------------------------------------------------------------------------------------
+Esta e apenas uma simulacao de sistema atm para fins de estudos.
+---------------------------------------------------------------------------------------------
 Assembly: 
 	.file	"main.c"
 .globl _saldo
